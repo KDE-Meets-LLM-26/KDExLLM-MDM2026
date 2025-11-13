@@ -8,3 +8,20 @@ This workshop on the synergy between Large Language Models (LLMs) and Knowledge 
 To encourage researchers with relevant backgrounds to engage and contribute, we propose to organize the workshop to explore the interplay between KBs, DBs, and LLMs, to gain insights from both academia and industry. We will welcome theory and methodology papers falling into the scope of the following themes, including but not limited to:
 ### LLM-empowered knowledge and data engineering
 - LLM-enabled Improvements to Foundational KB and DB Algorithms
+- Database Design, Configuration, and Tuning with LLMs
+- Data Cleansing and Augmentation with LLMs
+- Data Indexing and Query Optimization with LLMs
+- Reasoning Over Knowledge Bases with LLMs
+- Automated Data Understanding and Visualization with LLMs
+- Novel Query Interfaces and Interactive Query Refinement with LLMs
+- Context-aware Data Retrieval with LLMs
+- Personalized Query Optimization with LLMs 
+
+### Knowledge base and database-enhanced LLMs
+- Data Collection and Preparation for LLMs
+- DB-inspired Techniques for Modeling, Storage, and Provenance of LLMs
+- Vector Data Management for LLMs
+- Data and Metadata Management for LLM Life Cycle
+- Data Management for Multi-modal LLMs
+- RAG System Retrieval and Reasoning for LLMs
+- Novel Data Management Systems for Accelerating LLM Training
